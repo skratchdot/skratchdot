@@ -1,7 +1,6 @@
 ## skratchdot's profile
 
-Hi! I’m Jeff, a software engineer passionate about crafting web applications with TypeScript and React. I have a wide range of interests, including generative art and creative coding. In my free time, I’m building 
-[sawloop.com](https://sawloop.com).
+Hi! I’m Jeff, a software engineer skilled in creating web applications with TypeScript and React. I enjoy generative art and creative coding. In my free time, I’m building [sawloop.com](https://sawloop.com).
 
 You can find out more at [skratchdot.com](https://skratchdot.com/).
 
